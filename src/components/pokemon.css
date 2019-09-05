@@ -1,3 +1,7 @@
 .mfix{
     margin: 0px !important;
 }
+
+.rpad {
+    margin-right: 10px;
+}
